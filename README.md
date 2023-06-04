@@ -1,4 +1,5 @@
-![logo](https://github.com/Kalpeshpt/Kalpesh_Patil/blob/main/4CD74768C0F79722960FA5035F79697C.jpg)
+
+<img align="right" alt="kalpeshpt" width="1000" height="150" src="https://github.com/Kalpeshpt/Kalpesh_Patil/blob/main/4CD74768C0F79722960FA5035F79697C.jpg"  /> </p>
 <h1 align="center">Hi 👋, I'm Kalpesh Patil</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 <img align="right" alt="kalpeshpt" width="400" src="https://github.com/Kalpeshpt/Kalpesh_Patil/blob/main/758T.gif"  /> </p>
